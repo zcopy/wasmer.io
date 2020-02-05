@@ -196,7 +196,7 @@ class Home extends React.Component {
     return (
       <div>
         <Head>
-          <title>Wasmer - The Universal WebAssembly Runtime</title>
+          <title>Wasmer中文网 - 通用WebAssembly运行时</title>
         </Head>
         <Nav />
 
